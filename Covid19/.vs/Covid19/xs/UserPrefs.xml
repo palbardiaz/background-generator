@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{03C1E3ED-1F97-A3F5-3889-8EF019AEA4CF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FinalA3LectureCode/Scripts/MicrophoneCapture.cs">
+    <Files>
+      <File FileName="Assets/AvatarBehavior.cs" Line="31" Column="36" />
+      <File FileName="Assets/FinalA3LectureCode/Scripts/MicrophoneCapture.cs" Line="286" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="327cb3c0-63ca-48d4-aeb2-eb57a9b4e520" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pilaralbardiaz/Desktop/Covid19/Assets/AvatarBehavior.cs" relfile="Assets/AvatarBehavior.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nuispring2020-qlbwwo",
+  "private_key_id": "810824e42aca0a4262713af33e4b4f9b442a9aa2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDndycBp+QqfMNq\nckx5ZB1T7ZuOBC/xyvC+tIX+VoZC+t8opUzuUiwoa2o+LBCLlH+1AigwAr/glHI6\n2vubuk6/l+Hl5ySD6v7MKhJRZhxVMM8ozgujivtpQP0AxiSLt5R9El1H3tf9of5V\n/vc4IGc/vLXjO6uZiMoZ41jaVWr2SMrrVP2AzkSdMCtYIT623CEKV5oQpV64MnFv\n1epTnUwLVXvkrrOPBdI/d0SR2GTNbuwAWTSiww09fWDKfLNqVyaAvZe0ZUneJVzI\n13Vnhdtt2RARQwjzvvlxvQDrH85fm1uzB9l6MC5g6pg1IWiszDwDKqKiyX6pbig9\nlpuHBGItAgMBAAECggEABB/Vf+5Ja4u5G0iO941NbfIdwX5uVxJzwjGgabrfStc+\nIfuCc1FWpxd1SpyDIG1QQ4AOPTJdvtUP6xMFxMcY6g3J8Bk3x3MtIqNx8PsIkqz3\nEmkpwCDl81YB8nzzOWxf05pMmfFGi6bsQycmMhi7DB2HVm89UtPv2W6TIcTRAWZ5\noYtINCdpUW9G7gzSG/cIB37F+9nOi5WNeprgISClMRAi8P3+qZuu3zaYRRW8x2j5\nlTA6J205djvGpx0NEMVXum26qS/Zb+lponl/4j8aRmLTdMnnKlFNdNQ+GvKI6oCo\nCXqe5zlPc3tNu91tFZYc2V5vLZUVRlsr7E7GilDqgwKBgQD/r/i+Pk5uUJ3XxvET\nnjfi2yLo7WIP69CgsbrTWqzDjYSJXBRJRrenglTZkcwCpdLV2HsvAWkEccUX8zBT\npD60aBtabOiN0bn5N+V18BBErDe+XF09LZVNMuaYhgM4wBaYUjrfDv8i7g0jiCC0\nV3E5Tq4ZJBf3Iy9loEVfBtpn4wKBgQDnv5lzYCKFPiA8jNngfaoro8P5ACzD7jr8\nE9MCZOW06ypLQPQb2B6XxfRXWuRvO1tq7BkQUuWbrwPyxP4Smlgk+vIiKHF0N9CD\nWy1jDm0BW/CyjF9ZmUuMXvfnmNT5ApdM+ddo5ZKntFloYISInirERHIg3SwIXBub\n4BA5/R2KrwKBgQDQDxC5Nhg6Wi1nFYK8tQXC+xC4O9qNHBYDfTyKmgF1i2XrJFt5\nmSr/CuYiuSoqiWc8DlGG2X3sWOvJ5mFP3poL0Z9YgMDoDl5n9t0okDWcvAsMQzq3\n+qzASggs2vgqKNz6DAfN1PU2JkHYxP/f4DvJJ0YyPRWnTCFYcAejIP9+gwKBgCeH\n1DoM/PZzeXY6pHOZm+xju+r+b6RgP6l+DDFNWq14q7c4ditFuzoyZxJ7i5m5q0da\nzI+vREFBIlBH7/rmXwC32ZOgCHJFjwjJBb3u2QMxVqZuMVmMP4nLLUhRFor/OSXF\nPExFVLXMmq+mPxU6vZrK/hjDAV7Pr1nwZ3Qsy9w7AoGACIQAk6sVU4fSuEYbu8Vn\nDpbSGXnP3zDJSdoyLGjnZeXn/LL6FPdpvYNUJTUCLn2SvFlNPnu1521zQxXv5t0I\ndRJ1olQug0fspttP/N/CWY4vK3y6gP6eVNq++Ny0Zl1iTY/tejKTDURwHdn0vTBb\nYM8QHQ3FAtSTjYOd2sPugBQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nui-service@nuispring2020-qlbwwo.iam.gserviceaccount.com",
+  "client_id": "100369868139580824160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nui-service%40nuispring2020-qlbwwo.iam.gserviceaccount.com"
+}
